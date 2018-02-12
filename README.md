@@ -5,5 +5,7 @@ The project is from Udacity Machine Learning Nanodegree.
 
 
 The following approaches for training a classification model are:
+
 •	CNN from Scratch
+
 •	CNN from Transfer Learning
